@@ -23,3 +23,13 @@
   <a href="https://linkedin.com/in/guendor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="https://instagram.com/raphael_im" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
+
+##
+
+<h3><img src="https://user-images.githubusercontent.com/103647763/189683123-36efed8d-92e4-4ff1-9d0d-8e23c8ace2f2.jpg" alt="Fita de mérito" hight="30" width="30"> Conquistas:</h3>
+<p>
+<img src="https://img.shields.io/badge/Medalha-Vontade%20do%20Fogo-orange" alt="Badge Vontade do Fogo"> Por continuar a lutar apesar das adversidades!<br>
+<img src="https://img.shields.io/badge/T%C3%ADtulo-Atirador%20de%20Elite-red" alt="Badge Atirador de Elite"> Por destarcar-se no tiro de precisão!<br>
+<img src="https://img.shields.io/badge/T%C3%ADtulo-Bibliotec%C3%A1rio-lightgrey" alt="Badge Bibliotecário"> Por ler mais de 8 livros por mês!<br>
+<img src="https://img.shields.io/badge/Medalha-Ecl%C3%A9tico-blueviolet" alt="Badge Eclético"> Por adiquirir conhecimento básico em todas as áreas!<br>
+</p>
