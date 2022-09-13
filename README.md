@@ -34,4 +34,5 @@
 <img src="https://img.shields.io/badge/Medalha-Ecl%C3%A9tico-blueviolet" alt="Badge Eclético"> Por adiquirir conhecimento básico em todas as áreas!<br>
 <img src="https://img.shields.io/badge/T%C3%ADtulo-Poliglota-yellow" alt="Badge Poliglota"> Por saber diversas linguagens humanas e de máquina!<br>
 <img src="https://img.shields.io/badge/T%C3%ADtulo-N%C3%B4made-9cf" alt="Badge Nômade"> Endereço fixo?!<br>
+<img src="https://img.shields.io/badge/Medalha-Hero-red" alt="Badge Hero"> Por ajudar uma velhinha à atravessar... ou salvar uma vida!<br>
 </p>
