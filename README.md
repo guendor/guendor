@@ -32,4 +32,6 @@
 <img src="https://img.shields.io/badge/T%C3%ADtulo-Atirador%20de%20Elite-red" alt="Badge Atirador de Elite"> Por destarcar-se no tiro de precisão!<br>
 <img src="https://img.shields.io/badge/T%C3%ADtulo-Bibliotec%C3%A1rio-lightgrey" alt="Badge Bibliotecário"> Por ler mais de 8 livros por mês!<br>
 <img src="https://img.shields.io/badge/Medalha-Ecl%C3%A9tico-blueviolet" alt="Badge Eclético"> Por adiquirir conhecimento básico em todas as áreas!<br>
+<img src="https://img.shields.io/badge/T%C3%ADtulo-Poliglota-yellow" alt="Badge Poliglota"> Por saber diversas linguagens humanas e de máquina!<br>
+<img src="https://img.shields.io/badge/T%C3%ADtulo-N%C3%B4made-9cf" alt="Badge Nômade"> Endereço fixo?!<br>
 </p>
