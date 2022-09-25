@@ -35,4 +35,5 @@
 <img src="https://img.shields.io/badge/T%C3%ADtulo-Poliglota-yellow" alt="Badge Poliglota"> Por saber diversas linguagens humanas e de máquina!<br>
 <img src="https://img.shields.io/badge/T%C3%ADtulo-N%C3%B4made-9cf" alt="Badge Nômade"> Endereço fixo?!<br>
 <img src="https://img.shields.io/badge/Medalha-Hero-red" alt="Badge Hero"> Por ajudar uma velhinha à atravessar... ou salvar uma vida!<br>
+<img src="https://img.shields.io/badge/Medalha-Determina%C3%A7%C3%A3o%20de%20Ferro-lightgrey"> Por provar sua determinação!<br>
 </p>
